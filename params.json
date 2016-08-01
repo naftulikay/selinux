@@ -1,0 +1,6 @@
+{
+  "name": "SELinux",
+  "tagline": "Documentation for mere mortals.",
+  "body": "# selinux\r\n\r\n[SELinux docs for mere mortals][wiki].\r\n\r\n [wiki]: https://github.com/rfkrocktk/selinux/wiki\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
